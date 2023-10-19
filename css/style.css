@@ -1,0 +1,32 @@
+h3 {
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+.p {
+    background: darkgray;
+    max-width: fit-content;
+    display: block;
+    margin-top: 0;
+}
+
+.q {
+    display: block;
+    margin-top: 0;
+}
+p
+{
+    font-family: Arial, sans-serif;
+}
+h2
+{
+    font-family: Arial, sans-serif;
+}
+h1
+{
+    font-family: Arial, sans-serif;
+}
+.o
+{
+    font-family: Arial, sans-serif;
+}
